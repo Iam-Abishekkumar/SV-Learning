@@ -1,5 +1,5 @@
 //====================================================
-// File : shallow_copy.sv
+// File : class_handle.sv
 // Description : Demonstration of Class Handle Copy
 //====================================================
 
